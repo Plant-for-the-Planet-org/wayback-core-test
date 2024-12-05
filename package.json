@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@vannizhang/wayback-core": "^1.0.8",
+		"xmlhttprequest": "^1.8.0"
+	}
+}
